@@ -1,5 +1,6 @@
 # CalculatorCODSOFT
 Calculator developed using Python and Thinkter
+
 ✅Basic Operations: Supports addition, subtraction, multiplication, and division.
 
 ✅Advanced Mathematical Functions: Factorial, square roots, squaring, and reciprocal (1/x).
